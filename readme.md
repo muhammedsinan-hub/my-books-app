@@ -7,6 +7,9 @@ Frontend (React + Vite)
 • Pages: BooksList, BookForm
 • Features: display list, add, edit, delete, pagination, validation, loading & error states
 
+
+<img width="1920" height="1008" alt="add-book" src="https://github.com/user-attachments/assets/98a37998-6b96-4373-b3aa-9ddefd2d2866" />
+<img width="1920" height="1008" alt="book-list" src="https://github.com/user-attachments/assets/c70d6eac-78a4-4534-a9d0-f508ace9a4b3" />
 <img width="1920" height="1008" alt="addnewbook" src="https://github.com/user-attachments/assets/297fe5a8-d6c4-4074-8c9d-e9857d88332a" />
 <img width="1920" height="1008" alt="bookfindwithid" src="https://github.com/user-attachments/assets/c3c91303-6558-4dba-8b0b-17b44c8694d3" />
 <img width="1920" height="1008" alt="delete" src="https://github.com/user-attachments/assets/d6acc7af-8768-4d16-a766-81001ba3fb6f" />
